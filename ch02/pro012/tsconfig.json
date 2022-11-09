@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "es6",
+    "strictNullChecks": true,
+    "declaration": true,
+    "typeRoots": ["./types/common", "./node_modules/@types"]
+  }
+}
